@@ -1,0 +1,8 @@
+Name,Age,Job
+Spongebob,30,Cook
+Patrick,20,Chef
+Sandy,32,CEO
+Eugene
+Squidward
+Spongebob
+Patrick
